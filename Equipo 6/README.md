@@ -1,4 +1,4 @@
-####Equipo 6
+#### Equipo 6
 
 - Sergio Bernal Adame
 - Guillermo Cruz Fernandez
